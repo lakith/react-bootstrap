@@ -1,0 +1,11 @@
+.Home{
+    width: 100%;
+}
+
+.Home a :hover,
+.Home a :active
+.Blog a.my-active
+{
+    text-decoration: none;
+    font-weight: bold;
+}
